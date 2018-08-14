@@ -1,6 +1,6 @@
 def my_collect(collection)
   arr = []
-  while arr < collection.length
+  while arr.lenght < collection.length
   yield collection[arr]
   
  end
